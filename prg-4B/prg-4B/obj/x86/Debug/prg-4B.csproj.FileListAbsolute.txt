@@ -1,0 +1,4 @@
+E:\Chethan-MCA\prg-4B\prg-4B\bin\Debug\prg-4B.exe
+E:\Chethan-MCA\prg-4B\prg-4B\bin\Debug\prg-4B.pdb
+E:\Chethan-MCA\prg-4B\prg-4B\obj\x86\Debug\prg-4B.exe
+E:\Chethan-MCA\prg-4B\prg-4B\obj\x86\Debug\prg-4B.pdb
