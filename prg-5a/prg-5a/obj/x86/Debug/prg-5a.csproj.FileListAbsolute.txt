@@ -1,0 +1,4 @@
+E:\Chethan-MCA\prg-5a\prg-5a\bin\Debug\prg-5a.exe
+E:\Chethan-MCA\prg-5a\prg-5a\bin\Debug\prg-5a.pdb
+E:\Chethan-MCA\prg-5a\prg-5a\obj\x86\Debug\prg-5a.exe
+E:\Chethan-MCA\prg-5a\prg-5a\obj\x86\Debug\prg-5a.pdb
